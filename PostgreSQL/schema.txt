@@ -3,7 +3,7 @@
 cf_id INTEGER
 contact_id INTEGER PK
 company_name VARCHAR(35)
-description VARCHAR(35)
+description VARCHAR(70)
 goal INTEGER
 pledged INTEGER
 outcome VARCHAR(10)
